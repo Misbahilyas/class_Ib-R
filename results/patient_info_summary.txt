@@ -1,0 +1,14 @@
+  patient_id             age           gender    diagnosis       bmi           smoker         
+ Length:20          Min.   :26.00   Female:11   Cancer:11   Min.   :19.80   Length:20         
+ Class :character   1st Qu.:32.50   Male  : 9   Normal: 9   1st Qu.:22.40   Class :character  
+ Mode  :character   Median :38.50                           Median :24.25   Mode  :character  
+                    Mean   :38.95                           Mean   :24.32                     
+                    3rd Qu.:45.25                           3rd Qu.:26.25                     
+                    Max.   :55.00                           Max.   :28.60                     
+ smoker_binary 
+ Min.   :0.00  
+ 1st Qu.:0.00  
+ Median :1.00  
+ Mean   :0.55  
+ 3rd Qu.:1.00  
+ Max.   :1.00  
